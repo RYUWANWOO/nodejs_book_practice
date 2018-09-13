@@ -4,4 +4,4 @@ setInterval(function (){
   exports.timer.emit('tick');
 }, 1000);
 
-console.log("HI");
+console.log("fuxx minuk");
